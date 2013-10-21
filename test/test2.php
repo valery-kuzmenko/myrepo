@@ -9,4 +9,11 @@ function test2(){
     
 }
 
+
+
+function test3(){
+    echo "1";
+    
+    
+}
 ?>
