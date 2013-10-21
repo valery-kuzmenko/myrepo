@@ -9,6 +9,6 @@ function test(){
 }
 
 function tets3(){
-    
+//    
 }
 ?>
