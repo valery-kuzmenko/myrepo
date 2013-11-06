@@ -6,7 +6,7 @@
  */
 
 function test2(){
-    ////
+    ////test 7
 }
 ///// branch
 
