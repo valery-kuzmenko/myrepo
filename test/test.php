@@ -5,11 +5,10 @@
  * and open the template in the editor.
  */
 function test(){
-    ////
+    
 }
 
 function tets3(){
 //    
-    //1
 }
 ?>
